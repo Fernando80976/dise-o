@@ -1,0 +1,39 @@
+/* --- Estilo del menú fijo --- */
+nav {
+  position: sticky; /* hace que quede fijo mientras se desplaza */
+  top: 0; /* pegado al top de la página */
+  background-color: #4caf50; /* verde más intenso */
+  padding: 10px 20px;
+  border-radius: 0 0 10px 10px; /* bordes redondeados abajo */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  z-index: 1000;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+  font-family: 'Arial', sans-serif;
+  transition: all 0.3s ease;
+}
+
+nav a:hover {
+  color: #ffeb3b;
+  text-shadow: 0 0 5px rgba(0,0,0,0.5);
+  transform: scale(1.1);
+}
+
+/* --- Bloque único de contenido --- */
+#contenido {
+  padding: 20px;
+  margin-top: 20px;
+  background: #b5e888; /* verde claro */
+  border-radius: 5px;
+  border: 1px solid #7bbf52;
+}
+
+#contenido h2 {
+  margin-top: 20px;
+}
