@@ -1,0 +1,62 @@
+div{
+    border: 2px solid black;
+}
+.centro p{
+    margin-top: 19%;
+}
+
+.arriba p{
+        margin-top: 5%;
+
+}
+.abajo p{
+        margin-top: 6%;
+
+}
+
+
+.arriba{
+    width: 80%;
+    height: 200px;
+    margin: auto;
+    text-align: center;
+}
+.centro{
+    width: 80%;
+    height: 200px;
+        margin: auto;
+    border: 0px solid black; 
+text-align: center;
+
+}
+.abajo{
+    margin: auto;
+margin-top: 50px;
+    width: 80%;
+    height: 200px;
+        text-align: center;
+
+}
+.izq{
+float: left;
+width: 447px;
+margin: 20px;
+    height: 190px;
+padding:8px;
+
+}
+.centroC{
+float: left;
+width: 447px;
+margin: 20px;
+    height: 190px;
+padding: 8px;
+
+}
+.derecha{
+float: left;
+width: 447px;
+margin: 20px;
+    height: 190px;
+padding: 8px;
+}

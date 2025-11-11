@@ -1,0 +1,61 @@
+.arriba{
+width: 800px;
+height: 150px;
+border: 2px solid black;
+margin: auto;
+margin-bottom: 20px;
+background-color: yellow;
+}
+.alrededor{
+width: 800px;
+height: 650px;
+margin: auto;
+
+}
+.izq{
+    margin: 6px;
+    margin-left: 0px;
+    margin-right: 34px;
+width: 212px;
+border: 2px solid black;
+height: 550px;
+float: left;
+background-color: gray;
+}
+.izquierdita{
+border: 2px solid black;
+float: left;
+margin: 6px;
+height: 180px;
+width: 19%;
+background-color: red;
+}
+.centrito{
+float: left;
+border: 2px solid black;
+margin: 6px;
+height: 180px;
+width: 19%;
+margin-left: 33px;
+background-color: red;
+
+}
+.derechita{
+border: 2px solid black;
+float: right;
+margin: 6px;
+height: 180px;
+width: 19%;
+background-color: red;
+
+margin-right: 0px;
+}
+.abajote{
+    background-color: greenyellow;
+    margin-top: 70px;
+border: 2px solid black;
+float: left;
+width: 540px;
+height: 290px;
+margin-left: 6px;
+}
